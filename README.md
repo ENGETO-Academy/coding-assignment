@@ -1,4 +1,4 @@
-## Task Assignment: Assessment Test Environment Creation
+## Task Assignment: Assessment Test Environment
 
 ### Objective:
 > The candidate is required to create an assessment test environment using React, Node.js, Docker, and integrate OpenAI for generating questions. The environment should allow users to take a timed test, save their answers to a database, and display their test results at the end.
@@ -14,7 +14,7 @@ Use React to build a user interface for the assessment test environment. The UI 
 1. Implement appropriate error handling and validation throughout the application (where applicable).
 1. Utilize Docker to containerize the application.
 1. BONUS: Ensure the application is responsive, user-friendly, and follows best practices for code quality and organization.
-1. BONUS:Integrate OpenAI to generate 10 questions based on the provided input data. The questions should be fetched from OpenAI's API and displayed to the user.
+1. BONUS: Integrate OpenAI to generate 10 questions based on the provided input data. The questions should be fetched from OpenAI's API and displayed to the user.
 1. BONUS: If the student had fails in certain areas (e.g. conditions in Python), provide some qualitative feedback and what should the person focus more = where the student failed.
 1. BONUS: Create either unit tests with Jest or E2E tests with cypress.io
 
@@ -23,7 +23,7 @@ Additional information
 1. We’d like to see your development process, so feel free to commit a lot with descriptive information about code changes (= don’t squash commits)
 
 ### Design requirements:
-* [https://www.figma.com/file/AaPcx1f7Q1EOA1gkAXjAVZ/Task-for-developer?type=design&node-id=0-1&mode=design&t=SHerj8pgeQqWolOf-0 ](https://www.figma.com/file/AaPcx1f7Q1EOA1gkAXjAVZ/Task-for-developer?type=design&node-id=0-1&mode=design)
+* [Figma design](https://www.figma.com/file/AaPcx1f7Q1EOA1gkAXjAVZ/Task-for-developer?type=design&node-id=0-1&mode=design)
 
 ### Deliverables:
 The candidate should provide the following:
